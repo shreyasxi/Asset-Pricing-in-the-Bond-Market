@@ -8,10 +8,14 @@ This project examines the effectiveness of asset pricing models such as the CAPM
 This repository provides all the resources necessary to replicate the analysis conducted in this project. Follow the steps below to get started:
 ### Step 1: Clone the Repository
 
-```git clone https://github.com/shreyasxi/Asset-Pricing-in-the-Bond-Market.git```
+```bash 
+git clone https://github.com/shreyasxi/Asset-Pricing-in-the-Bond-Market.git
+```
 
 ### Step 2: Navigate to the Repository
-```cd Asset-Pricing-in-the-Bond-Market``` 
+```bash 
+cd Asset-Pricing-in-the-Bond-Market
+``` 
 
 ### Step 3: Explore the Contents
 - Code Script and Workspace Objects: Contains R scripts for implementing and testing asset pricing models, as well as the workspace object files.
