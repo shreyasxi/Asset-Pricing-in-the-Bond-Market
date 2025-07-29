@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 **Author**: Shreyas Urgunde, Federico Barletta, Siyuan Qi, and Janani Jayaprakash  
-**Date**: December 2024 
+**Date**: December 2024  
 **Institution**: Warwick Business School  
 
 ---
