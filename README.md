@@ -1,4 +1,13 @@
 # Asset-Pricing-in-the-Bond-Market
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+**Author**: Shreyas Urgunde, Federico Barletta, Siyuan Qi, and Janani Jayaprakash  
+**Date**: December 2024 
+**Institution**: Warwick Business School  
+
+---
+
 Building on the extensive body of research exploring risk factors in equity markets, we evaluated multiple factor models to analyze and explain the determinants of risk premia in the corporate bond market.
 
 ## Objective
